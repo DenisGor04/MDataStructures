@@ -102,4 +102,6 @@ int main()
 
     Squad1.Attack_Enemy(attacker, target);
 
+    cout << "The attacker tank has attacked the target." << endl;
+
 }
